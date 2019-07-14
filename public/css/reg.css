@@ -1,0 +1,254 @@
+		*{
+			margin:0;
+			padding:0;
+		}
+		header{
+			width:100%;		
+		}
+		body{
+			background:white;
+		}
+		#head{
+			width:1200px;
+			height:100px;
+			margin:0 auto;
+			background:white;
+		}
+		div .left{
+			float:left;
+			margin-left:100px;
+		}
+		div .right{
+			float:right;
+			height:100px;
+			line-height:100px;
+			margin-right:-110px;
+		}
+		.right_img> i{
+			display:inline-block;
+			width:16px;
+			height:16px;
+			vertical-align:middle;
+			margin-right:3px;
+			background:url('../img/index/ui_login.png')  -76px -60px no-repeat;
+		}
+		.right_img{
+			margin-left:20px;
+		}
+		.bg_pic{
+			width:100%;
+			height:560px;
+			position:absolute;
+			top:100px;
+			left:0;
+			overflow:hidden;
+		}
+		.bg_pic img{
+			position:absolute;
+			left:50%;
+			margin-left:-1000px;	
+		}
+		.border{
+		float: right;
+		width: 340px;
+		height: 520px;
+		margin: 20px 50px 0 0;
+		padding: 0 30px;
+		display: inline;
+		position: relative;
+		background:#fff;
+		}
+		.c1{
+			width: 340px;
+			height: 80px;
+			line-height: 80px;
+			text-align: center;
+			font-size: 22px;
+			font-weight: bold;
+			color: #333;
+			padding-top:20px;
+		}
+		span.hyzc{
+		display: inline-block;
+		width: 166px;
+		height: 24px;
+		line-height: 24px;
+		cursor: pointer;
+		float:left;
+		margin-top:30px;
+		margin-left:-26px;
+		}
+		div .c1>.go a{
+		display: inline-block;
+		width: 166px;
+		height: 24px;
+		line-height: 24px;
+		cursor: pointer;
+		float:right;
+		text-decoration:none;
+		margin-top:30px;
+		margin-right:-53px;
+		}
+		div .login{
+			width:340px;
+			height:255px;
+			background:#fff;
+			line-height:46px;
+			padding-left:10px;
+			border:none;
+		}
+		div > .user_txt .user{
+			width:327px;
+			height:46px;
+			font-size:14px;
+			background:#fff;
+			line-height:46px;
+			padding-left:10px;
+			box-sizing:border-box;
+			display:inline-block;
+			margin-top:16px;
+		}
+		div > .user_txt1 .user1{
+			width:327px;
+			height:46px;
+			font-size:14px;
+			background:#fff;
+			line-height:46px;
+			padding-left:10px;
+			box-sizing:border-box;
+			display:inline-block;
+			margin-top:38px;
+		}
+		div .reg> a{
+			display:inline-block;
+			width:327px;
+			height:37px;
+			border:0;
+			margin-top:38px;
+			border-radius:2px;
+			font-size:15px;
+			color:#fff;
+			background:#d70057;
+			text-align:center;
+			text-decoration:none;
+			line-height:34px;
+		}
+		.ys{
+			color:#999;
+			font-size:12px;
+		}
+		.ys1 a{
+			display:inline-block;
+			font-size:12px;
+			color:red;
+			text-decoration:none;
+		}
+		div .tp{
+			width:360px;
+			height:25px;
+			position:absolute;
+			left:0px;
+			bottom:0px;
+			overflow:hidden;
+			padding:16px 30px 16px 10px;
+			background: #f6f6f6;
+		}
+		div .left_tp1 a{
+			display:inline-block;
+			float:left;
+		}
+		div .left_tp1 .qq i{
+			display:inline-block;
+			width:18px;
+			height: 18px;
+			background:url('../img/index/ui_login.png') -23px -58px no-repeat;
+			margin-top:-13px;
+			margin-left:16px;
+			vertical-align:middle;
+		}
+		div .left_tp2 a{
+			display:inline-block;
+			float:left;
+		}
+		div .left_tp2 .wx i{
+			display:inline-block;
+			width:18px;
+			height: 18px;
+			background:url('../img/index/ui_login.png') -5px -42px no-repeat;
+			margin-top:-13px;
+			margin-left:16px;
+			vertical-align:middle;
+		}
+		div .left_tp3 a{
+			display:inline-block;
+			float:left;
+		}
+		div .left_tp3 .zfb i{
+			display:inline-block;
+			width:18px;
+			height: 18px;
+			background:url('../img/index/ui_login.png') -5px -76px no-repeat;
+			margin-top:-13px;
+			margin-left:16px;
+			vertical-align:middle;
+		}
+		div .left_tp4 a{
+			display:inline-block;
+			float:left;
+		}
+		div .left_tp4 .xin i{
+			display:inline-block;
+			width:18px;
+			height: 18px;
+			background:url('../img/index/ui_login.png') -53px -30px no-repeat;
+			margin-top:-13px;
+			margin-left:16px;
+			vertical-align:middle;
+		}
+		div .left_tp5 a{
+			display:inline-block;
+			float:left;
+		}
+		div .left_tp5 .happy i{
+			display:inline-block;
+			width:18px;
+			height: 18px;
+			background:url('../img/index/ui_login.png') -53px -30px no-repeat;
+			margin-top:-13px;
+			margin-left:16px;
+			vertical-align:middle;
+		}
+		div .right_tp a{
+			display:inline-block;
+			float:left;
+		}
+		div .right_tp .reg_happy i{
+			display:inline-block;
+			width:18px;
+			height: 18px;
+			background:url('../img/index/ui_login.png') -76px -30px no-repeat;
+			margin-top:-13px;
+			margin-left:92px;
+			vertical-align:middle;
+		}
+		div .right_tp a{
+			text-decoration:none;
+		}
+		div .right_tp span{
+			display:inline-block;
+			text-align:center;
+			vertical-align:middle;
+			margin-top:-14px;
+		}
+		div.info{
+			height:28px;
+			float:right;
+			text-align: center;
+			color: #999;
+			font-size: 12px;
+			line-height: 28px;
+			clear:both;
+			position:absolute;
+			top:700px;
+			left:400px;
+		}

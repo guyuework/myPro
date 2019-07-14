@@ -1,0 +1,127 @@
+		*{
+			margin: 0;
+			padding: 0;
+		}
+	 footer{
+		width: 100%;
+	 }
+	 .foot{
+		width:100%;
+		height: 389px;
+		background: #e6e6e6;
+	 }
+	 .foot1{
+		margin:0 auto;	
+		width: 1300px;
+		height: 150px;
+		margin-top:20px;
+	 }
+	 .foot1_left{
+			width: 560px;
+			height: 150px;
+			background: #fff;
+			float: left;
+			margin-left: 28px;
+		}
+		.ewm_left{
+			float:left;
+			margin-top: 20px;
+			margin-left:90px;
+		}
+		.ewm_right{
+			float:right;
+			margin-top: 20px;
+			margin-right:90px;
+		}
+		.ewm_left p{
+			font-size:12px;
+			text-align: center;
+			margin-left:-2px;
+		}
+		.ewm_right p{
+			font-size:12px;
+			text-align: center;
+			margin-left:-2px;
+		}
+		.foot1_right{
+			width: 580px;
+			height: 150px;
+			float:right;
+		}
+		.foot1_right .list{
+			width: 580px;
+			height: 150px;
+		}
+		.foot1_right ul li{
+			list-style:none;
+			border-left:1px solid #fff;
+		}
+		.foot1_right ul li p a{
+			display:inline-block;
+			text-decoration: none;
+		}
+		.foot1_right .tit{
+			background: #fff;
+			margin-bottom: 10px;
+		}
+		.list li{
+			float:left;
+			width: 120px;
+			display:inline-block;
+			
+			margin-right: 20px;
+		}
+		.foot2{
+			width: 100%;
+			height: 80px;
+			margin-top: 50px;
+		}
+		.foot2 img{
+			vertical-align:middle;	
+		}
+		.foot2 ul{
+		width: 460px;
+			margin-top: 13px;
+		margin:0 auto;
+		}
+		.foot2 ul li{
+			float:left;
+			margin-left:20px;
+			list-style: none;
+		}
+		.foot3{
+			width:100%;
+			height: 40px;
+		}
+		.foot3 ul{
+			margin: 0 auto;
+			width: 308px;  /*不写备份比*/
+			list-style:none;
+		}
+		.foot3 ul li{
+		  width:75px;
+			float:left;
+		}
+		.foot3 ul li a{
+			float: left;
+			display:inline-block;
+			text-decoration: none;
+			font-size:15px;
+			line-height:15px;
+			color:#777;
+			margin:5px;
+		}
+		.foot4{
+			width: 100%;
+			height: 48px;
+			background: #000;
+			text-align: center;
+		}
+		.foot4 span{
+		  display:block;
+			width:1300px;
+			font-size:15px;
+			line-height: 45px;
+			color:#999;
+			margin:0 auto;
+		}

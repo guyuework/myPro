@@ -1,0 +1,512 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.bread .bread{
+    width: 100%;
+}
+div.bread .pro_intr{
+    width: 1200px;
+    margin:0 auto;
+    overflow: hidden;
+}
+div.bread .wz{
+    list-style: none;
+}
+div.bread .wz_1{
+    float: left;
+    margin-right: 5px;
+}
+div.bread .wz_1 span>a{
+    text-decoration: none;
+    color:#333;
+}
+div.img_intr .img_intr{
+    width: 100%;
+}
+div.img_intr .img_center{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 10px;
+}
+div.img_intr  .img_left{
+    float:left;
+    width: 450px;
+    height: 450px;
+    border: 1px solid #ddd;
+    position: relative;
+}
+div.img_intr  .right_intr{
+    margin-left: 50px;
+    float:left;
+    overflow: hidden;
+}
+div.img_intr  .price_line{
+    width: 650px;
+    height: 100px;
+    margin-top: 10px;
+    background: #fff;
+}
+div.img_intr  .price_line1{
+    font-size:20px;
+    vertical-align: top;
+    padding: 7px 0 12px 0;
+}
+div.img_intr .price_line1 .z1{
+    font-size:15px;
+    color:#333;
+    vertical-align: middle;
+}
+div.img_intr .jg{
+    display: inline-block;
+    color:#d70057;
+    font-size: 30px;
+}
+div.img_intr .tj{
+    display: inline-block;
+    margin-left: 10px;
+    background: #d70057;
+    color:#fff;
+    font-size:15px;
+}
+div.img_intr .th>a{
+    display: inline-block;
+    margin-left: 10px;
+    text-decoration: none;
+    color:#a46c01;
+    font-size:15px;
+}
+div.img_intr .color>img{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+    border:1px solid #d70057;
+}
+div.img_intr .color .z1{
+    display: inline-block;
+    font-size:15px;
+    color:#333;
+    vertical-align: top;
+    margin-top: 10px;
+}
+div.img_intr .left_size{
+    float: left;
+}
+div.img_intr .right_size{
+    float:left;
+    margin-left: 12px;
+}
+div.img_intr .right_size a{
+    text-decoration: none;
+    float:left;
+    margin-left: 12px;
+    color:#999;
+}
+div.img_intr .left_size{
+    display: inline-block;
+    font-size:15px;
+    color:#333;
+    vertical-align: top;
+    margin-top: 10px;
+}
+div.img_intr .size_table{
+    color:#d70057;
+    margin-top: 10px;
+}
+div.img_intr .size_num{
+    display: inline-block;
+    text-align: center;
+    width: 50px;
+    margin-top: 10px;
+    border:1px solid #ddd;
+    background: #fff;
+}
+div.img_intr div .count{
+    margin-top: 75px;
+    clear:both;
+}
+div.img_intr .an_1{
+    width: 20px;
+    margin-left: 6px;
+}
+div.img_intr .an_2{
+    width: 20px;
+}
+div.img_intr input{
+    width: 50px;
+    text-align: center;
+}
+div.img_intr .count1{
+    display: inline-block;
+    font-size:15px;
+    color:#333;
+    vertical-align: top;
+}
+div.img_intr .add_car{
+    height: 50px;
+    margin-left: 45px;
+    margin-top: 15px;
+}
+div.img_intr .add_car1{
+    float: left;
+}
+div.img_intr .add_car1>a{
+    width: 250px;
+    height: 50px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background: #d70057;
+    font-size:20px;
+    line-height: 45px;
+    color:#fff;
+}
+div.img_intr .add_car2{
+    float: left;
+    display: block;
+    margin-top: 14px;
+    margin-left: 60px;
+    font-size: 15px;
+    color:#999;
+}
+div.img_intr .shoucang>a{
+    vertical-align: top;
+    color:#999;
+    text-decoration: none;
+}
+div.img_intr .four_pic{
+        margin-left: 45px;
+        margin-top: 20px;
+}
+div.img_intr .four_pic>img{
+        border:1px dashed #ddd;
+}
+div.product_table .product_table{
+    width: 100%;
+    margin-top: 20px;
+}
+  div.product_table.pro_detail{
+    width: 1200px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+div.product_table .pro_wz{
+    overflow: hidden;
+    height: 48px;
+    background: #dfdfdf;
+}
+div.product_table .pro_line{
+    list-style: none;
+    margin-right: 5px;
+}
+div.product_table .switch1{
+    width: 1200px;
+    height: 40px;
+    margin:0 auto;
+    background: #fbfbfb;
+    border-bottom:1px solid #d9d9d9;
+}
+div.product_table .switch1_line{
+    list-style-type:none;
+}
+div.product_table .switch1_text>a{
+    display: block;
+    float:left;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    font-size:15px;
+    line-height:40px;
+    text-decoration: none;
+    color:#d70057;
+    border-right:1px solid #d9d9d9;
+    background: #fbfbfb;
+}
+div.product_table .img1{
+    width: 1200px;
+    margin:0 auto;
+    margin-top: 20px;
+}
+div.product_table .i1{
+    display: block;
+    width: 1200px;
+height: 33px;
+margin-bottom: 26px;
+background: url(img/clothes/productdetail-info-title.png) 
+    -5px -1px no-repeat;
+}
+div.product_table .t1{
+    width: 1200px;
+    margin:0 auto;
+    border:1px solid #f0f0f0;
+    text-align: center;
+    border-collapse: collapse;
+}
+div.product_table table tr{
+    border:1px solid #d9d9d9;
+}
+div.product_table table tr td{
+    border:1px solid #333;
+}
+div.product_table .td_color{
+    background: #e8e8e8;
+}
+div.product_table .td_color1{
+    background: #ddd;
+}
+div.product_table .img2{
+    width: 1200px;
+    margin:0 auto;
+    margin-top: 20px;
+}
+div.product_table .i2{
+    display: block;
+    width: 1200px;
+height: 33px;
+margin-bottom: 26px;
+background: url(img/clothes/productdetail-info-title.png) 
+    -5px -40px no-repeat;
+}
+div.product_table .biao{
+    width: 1200px;
+    margin:0 auto;
+}
+div.product_table .b1{
+    background: #fff;
+    text-align: left;
+height: 20px;
+line-height: 20px;
+font-size: 14px;
+color: #666;
+}
+div.product_table .b2{
+    height: 30px;
+line-height: 30px;
+margin: 10px 0;
+color: #666;
+}
+div.product_table .b2>img{
+    margin-right: 8px;
+    vertical-align: top;
+}
+div.product_table .t2{
+    width: 1200px;
+    margin:0 auto;
+    text-align: center;
+    background: #f0f0f0;
+    margin-bottom: 26px;
+    border-collapse: collapse;
+}
+div.product_table .pro_show{
+    width: 1200px;
+    margin:0 auto;
+    overflow: hidden;
+}
+div.product_table .i3{
+    display: block;
+    width: 1200px;
+height: 33px;
+margin-bottom: 26px;
+background: url(img/clothes/productdetail-info-title.png) -5px -81px no-repeat;
+}
+div.product_table .show_img{
+    width: 1200px;
+    margin:0 auto;
+    overflow: hidden;
+    text-align: center;
+}
+div.product_table .ass{
+    width: 1200px;
+    margin:0 auto;
+    overflow: hidden;
+}
+div.product_table .ass1{
+    width: 1200px;
+    margin:0 auto;
+    line-height: 38px;
+padding-left: 16px;
+border: 1px solid #dfdfdf;
+    background-color: #fbfbfb;
+color: #666;
+    margin-top: 20px;
+}
+div.product_table .ass2{
+    width: 1200px;
+    overflow: hidden;
+    margin:0 auto;
+}
+div.product_table .ass_2_1{
+    float: left;
+    line-height: 28px;
+    margin-top: 20px;
+    margin-left:20px;
+    color: #d70057;
+    font-family: Verdana;
+    font-size: 36px;
+}
+div.product_table .i5{
+    float: left;
+    display: inline-block;
+    margin-top: 23px;
+    margin-left: 20px;
+    width: 156px;
+    height: 24px;
+    background: url(img/clothes/comment-star.png) -2px -239px no-repeat;
+}
+div.product_table .ass2_2{
+    float:left;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+div.product_table .zc{
+    list-style: none;
+}
+div.product_table .zc li{
+    float:left;
+}
+div.product_table .zc_1{
+    width: 100px;
+    color: #999;
+    font-size: 12px;
+}
+div.product_table .zc_2{
+    overflow: hidden;
+    width: 100px;
+    height: 10px;
+    margin-top: 3px;
+    margin-left: -25px;
+    background: #d70057;
+}
+div.product_table .zc_2_2{
+    overflow: hidden;
+    width: 100px;
+    height: 10px;
+    margin-top: 3px;
+    margin-left: -25px;
+    background: #e8e8e8;
+}
+div.product_table .ass2_3{
+    float: right;
+    margin-top: 20px;
+
+}
+div.product_table .djq>a{
+    text-decoration: none;
+    padding-top: 16px;
+    color: #d70057;
+    font-size: 12px;
+    margin-right: 10px;
+}
+div.product_table .rule>a{
+    text-decoration: none;
+    margin-left: 12px;
+    font-size: 12px;
+    color: #999;
+    font-family: 'SimSun';
+}
+div.product_table .all{
+    line-height: 38px;
+padding-left: 16px;
+border: 1px solid #dfdfdf;
+    background-color: #fbfbfb;
+color: #d70057;
+    margin-top: 20px;
+}
+div.product_table .pj_1{
+    width: 1200px;
+    margin:0 auto;
+    overflow: hidden;
+    border-bottom: 1px dashed #ddd;
+}
+div.product_table .line_1{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+div.product_table .i6{
+    display: block;
+    width: 84px;
+    height: 14px;
+    margin-bottom: 15px;
+    background: url(img/clothes/comment-star.png) -2px -268px no-repeat;
+}
+div.product_table .time{
+    color: #666;
+    font-family: Verdana;
+    font-size: 12px;
+}
+div.product_table .line_2{
+    float: left;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+div.product_table .pjc1{
+    color: #666;
+    font-family: Verdana;
+    font-size: 15px;
+    line-height: 20px;
+padding-bottom: 8px;
+}
+div.product_table .pjc2{
+    list-style: none;
+}
+div.product_table .pjc_3{
+    float:left;
+    margin-right: 44px;
+    color: #999;
+    font-size: 12px;
+}
+div.product_table .line_3{
+    float: right;
+}
+div.product_table .user{
+    line-height: 18px;
+    padding-bottom: 9px;
+    text-align: right;
+    margin-top: 20px;
+    color: #666;
+    font-size: 12px;
+}
+div.product_table .user1>a{
+    text-decoration: none;
+    line-height: 18px;
+    padding-bottom: 9px;
+    text-align: right;
+    margin-top: 20px;
+    color: #666;
+    font-size: 12px;
+}
+div.product_table .exchange{
+    width: 1200px;
+    margin:0 auto;
+    overflow: hidden;
+}
+div.product_table .exchange1{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: #333;
+    font-size: 14px;
+}
+div.product_table .exchange2{
+    line-height: 20px;
+    color: #666;
+    font-size: 12px;
+}
+div.product_table .ex_zc>a{
+    text-decoration: none;
+    color:#d70057;
+}
+div.product_table .server{
+    width: 1200px;
+    margin:0 auto;
+    margin-top: 20px;
+}
+div.product_table .add{
+    width:30px;
+    height:20px;
+}
+div.product_table  .jian{
+    width:30px;
+    height:20px;
+}

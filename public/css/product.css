@@ -1,0 +1,218 @@
+
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		body{
+			background: #eaeaea;
+		}
+		.top{
+			width:100%;
+		}
+		.select{
+			width: 1200px;
+			margin: 0 auto;
+			background:#fff;
+		}
+		.first_line{
+			width: 1200px;
+			height: 42px;
+			background: #fff;
+			border-bottom:1px dashed #ddd	
+			}
+		.second_line{
+			width: 1200px;
+			height: 42px;
+			background: #fff;
+			border-bottom:1px dashed #ddd	
+		}
+		.third_line{
+			width: 1200px;
+			height: 42px;
+			background: #fff;
+			border-bottom:1px dashed #ddd	
+		}
+		.forth_line{
+			width: 1200px;
+			height: 42px;
+			background: #fff;
+			border-bottom:1px dashed #ddd	
+		}
+		.fifth_line{
+			width: 1200px;
+			height: 42px;
+			background: #fff;
+			border-bottom:1px dashed #ddd	
+		}
+		.sex{
+			list-style: none;
+		}
+		.sex>li{
+			float:left;
+		}
+		.first{
+			width: 100px;
+			text-align: center;
+			padding-top: 10px;
+			color:#333;
+			font-size:15px;
+		}
+		.all>a{
+			display: block;
+			width: 40px;
+			height: 23px;
+			text-decoration: none;
+			background:#d70057;
+			font-size:15px;
+			margin-top: 10px;
+			color:#fff;
+			text-align: center;
+		}
+		.xz>a{
+			display: block;
+			text-decoration: none;
+			color:#333;
+			margin-top: 10px;
+			margin-left: 50px;
+		}
+		.middle{
+			width:100%;
+			overflow: hidden;
+			margin-top: 30px;
+		}
+		.detail{
+			width: 1200px;
+			overflow: hidden;
+			margin:0 auto;
+			background:#d9d9d9;
+		}
+		.switch{
+			width: 1200px;
+			height: 40px;
+			background: #fbfbfb;
+			border-bottom:1px solid #d9d9d9;
+		}
+		.switch_line{
+			list-style-type:none;
+		}
+		.switch_text>a{
+			display: block;
+			float:left;
+			width: 80px;
+			height: 40px;
+			text-align: center;
+			font-size:15px;
+			line-height:40px;
+			text-decoration: none;
+			color:#d70057;
+			border-right:1px solid #d9d9d9;
+			background: #fbfbfb;
+		}
+		/*默认页内容的样式*/
+		.img_list{
+			width: 1200px;
+			overflow: hidden;
+			background: #f8f8f8;
+		}
+		.img_list1{
+			list-style: none;
+		}
+		.img_list1>li{
+			float: left;
+			margin:20px 15px;
+		}
+		.img_detail{
+			width: 270px;
+			height: 394px;
+			background: #fff;
+		}
+		.img_detail>a{
+			display: block;
+			width: 270px;
+			height: 270px;
+		}
+		.ln_logo{
+			width: auto;
+			height: 50px;
+			margin-bottom: 10px;
+		}
+		.ln_logo1{
+			display: inline-block;
+			vertical-align: top;
+			margin-top:-53px;
+			margin-left: 100px;	
+		}
+		.ln_intr{
+			width: 260px;
+			margin: 0 auto;
+			white-space: nowrap;
+			text-overflow: ellipsis;
+			overflow: hidden;
+			text-align: center;
+			line-height: 20px;
+			font-size:13px;
+			margin-bottom:10px;
+		}
+		.ln_price{
+			font-size:20px;
+			color:#d70057;
+			text-align: center;
+		}
+		.page{
+			width: 1200px;
+			height:84px;
+			background:#fff;
+		}
+		.bottom{
+			width: 100%;
+			overflow: hidden;
+		}	
+		.active{
+			width: 1200px;
+			margin: 0 auto;
+			margin-top: 20px;
+		}
+		.six_photo{
+			width: 1200px;
+			margin:0 auto;
+			margin-top: 20px;
+			overflow: hidden;
+			border:1px solid red;
+		}
+		.photo_1{
+			list-style: none;
+			overflow: hidden;
+			padding: 20px 1px 20px 9px;
+		}
+		.photo_1>li{
+			float: left;
+   		margin-right: 6px;
+    	margin-left: 10px;
+		}
+		.phtot_2{
+			width:100%;
+		}
+		.photo_2_1{
+			width: 1200px;
+			margin:0 auto;
+			margin-top: 20px;
+		}
+		.photo_2_2{
+			width: 1200px;
+			margin:0 auto;
+		}
+		.img_detail:hover{
+			box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+   		transform: translate3d(0, -2px, 0);
+		}
+
+
+
+
+
+
+
+
+
+
+	
